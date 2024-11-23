@@ -1,4 +1,4 @@
-# Predictive Model Using LSTM with Keras
+# Household Power consumption Predictive Model Using LSTM with Keras
 
 ## Overview
 This project utilizes **Keras** and **LSTM** (Long Short-Term Memory) networks for building a predictive model. The model aims to predict time-series data (such as household power consumption) based on historical patterns. The architecture includes the use of **Sequential**, **Dense**, **Flatten**, and **LSTM** layers to process and predict values efficiently.
